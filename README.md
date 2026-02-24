@@ -2,6 +2,10 @@
 
 > **Ask your database in plain English.** QueryMindAI transforms natural language questions into MongoDB queries — no syntax, no complexity, just answers.
 
+
+https://github.com/user-attachments/assets/5013bb7e-33e8-4b58-8470-f0e387dec0fe
+
+
 ---
 
 ## Table of Contents
@@ -383,6 +387,7 @@ The AI service is an **optional** Python FastAPI application that provides advan
 ## Database Schema
 
 The **queried data** (e.g., the `users` collection in MongoDB) uses this schema:
+<img width="1470" height="848" alt="Screenshot 2026-02-24 223347" src="https://github.com/user-attachments/assets/fa9b3c07-ebe2-48c0-aaa7-ce457f19e957" />
 
 | Field | Type | Example Values |
 |-------|------|----------------|
