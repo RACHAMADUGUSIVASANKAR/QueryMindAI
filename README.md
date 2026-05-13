@@ -326,9 +326,9 @@ The backend is an Express.js API that connects to MongoDB, handles query transla
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `MONGO_URI` | `mongodb://localhost:27017/querymindDB` | MongoDB connection string |
-| `PORT` | `5000` | Backend server port |
-| `AI_SERVICE_URL` | `http://localhost:8000` | Python AI service URL |
+| `MONGO_URI` | - | MongoDB connection string |
+| `PORT` | - | Backend server port |
+| `AI_SERVICE_URL` | - | Python AI service URL |
 | `NODE_ENV` | `development` | Environment mode |
 | `GEMINI_API_KEY` | — | Google Gemini API key for chatbot |
 
